@@ -1,3 +1,4 @@
+name             "protobuf"
 maintainer       "GeneralSensing LTD"
 maintainer_email "aaron@generalsensing.com"
 license          "Apache 2.0"
